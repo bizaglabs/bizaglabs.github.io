@@ -29,7 +29,7 @@ gulp.task('vendor', function() {
 
   // Font Awesome
   gulp.src([
-      './node_modules/font-awesome/**/*',
+      './node_modules/font-aewesome/**/*',
       '!./node_modules/font-awesome/{less,less/*}',
       '!./node_modules/font-awesome/{scss,scss/*}',
       '!./node_modules/font-awesome/.*',
